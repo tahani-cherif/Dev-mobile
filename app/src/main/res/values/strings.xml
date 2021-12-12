@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TD1_Iheb</string>
+    <string-array name = "list">
+        <item>
+            division
+        </item>
+        <item>
+           addition
+        </item>
+        <item>
+            sub
+        </item>
+        <item>
+            multip
+        </item>
+    </string-array>
+</resources>
